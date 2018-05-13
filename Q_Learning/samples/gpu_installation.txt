@@ -1,0 +1,27 @@
+#----------------------------------------------
+INSTALL NVIDIA SOFTWARE
+
+1. install cuda (cuda toolkit)
++check: nvcc -v
+
+2. install NVIDIA drivers associated with NVIDIA's Cuda (or cuda Toolkit)
++download: http://www.nvidia.com/Download/index.aspx
+ 
+chmod +x file.run 
+./[namefile] to execute
+
+3. install cuDNN
++check: sudo apt search cudnn | grep installed
+
+#----------------------------------------------
+INSTALL NVIDIA HARDWARE
+
++install NVIDIA hardware:
+
+#----------------------------------------------
+INSTALL libcupti
+
++
+
+#----------------------------------------------
++references: https://www.tensorflow.org/install/install_sources
