@@ -1,9 +1,0 @@
-#1
-+ sensing: To determine where the robot is.
-+ planning: Developing plans to figure out what the robot should do.
-+ acting: Computing commands for the robot execute.
-
-#2
-+ Build robot in gazebo and visualize in rviz.
-+ git clone -b base https://github.com/richardw05/mybot_ws.git
-+ 
